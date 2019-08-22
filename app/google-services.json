@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274147483901",
+    "firebase_url": "https://lorealglam-59020.firebaseio.com",
+    "project_id": "lorealglam-59020",
+    "storage_bucket": "lorealglam-59020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274147483901:android:b4b75fc286be30e9",
+        "android_client_info": {
+          "package_name": "com.eshop.lorealnaturale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274147483901-de84dn0iv3eeuubivghfqm5fqfaiefms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshop.lorealnaturale",
+            "certificate_hash": "ea9befafc4d5fbd77d3244dd7aae1f3d70ce2a05"
+          }
+        },
+        {
+          "client_id": "274147483901-m3gpj42ln7957riaffdesfgfbb18s1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4wzfvX50etInByqttPwp37CCOlwgtNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274147483901-m3gpj42ln7957riaffdesfgfbb18s1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

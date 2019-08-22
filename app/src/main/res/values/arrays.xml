@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Profile</item>
+        <item>Hair Diary</item>
+        <item>Hairdressers</item>
+        <item>Chats</item>
+        <item>Tutorial</item>
+        <item>Shop</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_action_name</item>
+        <item>@drawable/ic_action_shop</item>
+        <item>@drawable/ic_action_profile</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_share</item>
+        <item>@drawable/ic_action_exit</item>
+        <item>0</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+
+
+
+
+
+    <string-array name="ld_activityScreenHDTitles">
+        <item>Profile</item>
+        <item>Appointments</item>
+        <item>Chats</item>
+        <item>Tutorial</item>
+        <item>Shop</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenHDIcons">
+        <item>@drawable/ic_action_name</item>
+        <item>@drawable/ic_action_shop</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_share</item>
+        <item>@drawable/ic_action_exit</item>
+        <item>0</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+
+</resources>

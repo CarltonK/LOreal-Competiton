@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.eshop.lorealnaturale.DresserFind">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:src="@drawable/ic_action_shop"
+        android:scaleType="centerCrop"
+        android:layout_height="100dp" />
+
+    <customfonts.MyTextView
+        android:layout_width="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Being that it is customized to every user needs, features like hair routine reminders ease the natural hair journey of the client"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
